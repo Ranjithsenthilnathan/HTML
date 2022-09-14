@@ -1,0 +1,126 @@
+<html>
+    <hea<d>
+        <title>HTML</title>
+        <h1 style="color:rgb(255, 0, 0)">RANJITH S</h1>
+        <link rel="stylesheet" href="r.css">
+    </head>
+    <table>
+    <body>
+        <p>Learning course | Student | Coder</p>   
+        <p style="color:black">+91 7904289152</p> 
+        <p style="color:blue">ranjith@gmail.com</p>
+        <table style="background:rgb(255, 0, 140);">
+            <tr>
+                <td>
+                    <h3 border-style: "dashed";>Education</h3>
+                </td>
+            </tr>
+        </table>
+                    <li style="color:green">School</li>
+        <ol style="color:black">
+            <li>
+                GOVT SCHOOL
+            </li>    
+        </ol>
+        <ol>
+            <ul>
+            <li>
+                Located in Salem
+            </li>
+            </ul>
+        </ol> 
+        <li style="color:green">College</li>
+        <ol style="color:black ;">
+            <li>
+                SKCT
+            </li>    
+        </ol>
+        <ol>
+            <ul>
+            <li>
+                Located in CBE
+            </li>
+            </ul>
+        </ol> 
+            <table style="background:rgb(255, 0, 170);">
+                <tr>
+                    <td>
+                        IRC Courses
+                    </td>
+                </tr>
+            </table>
+        <table style="background:rgb(123, 255, 0)" border=1px width="100%">
+            <tr>
+                <th>Course Name</th>
+                <th>Trainer</th>
+                <th>Hall</th>
+                <th>Company</th>
+            </tr>
+
+            <tr>
+                <td rowspan="2">C++ with DS</td>
+                <td>Dharani</td>
+                <td rowspan="5">Drawing hall</td>
+                <td rowspan="7">iamneo</td>
+            </tr>
+
+            <tr>
+                <td>Koutheesh</td>
+            </tr>
+
+            <tr>
+                <td rowspan="3">Java</td>
+                <td>Dharani</td>
+            </tr>
+            
+            <tr>
+                <td>Koutheesh</td>
+            </tr>
+            
+            <tr>
+                <td>-</td>
+            </tr>
+
+            <tr>
+                <td>SQL</td>
+                <td>Sakthivel</td>
+                <td>IC SF</td>
+            </tr>
+            <tr>
+                <td>Web Tech(basic)</td>
+                <td>Koutheesh</td>
+                <td>IC GF</td>
+            </tr>
+        </table>
+        <h3>
+            <table style="background:rgb(255, 0, 149)">
+                <tr>
+                    <td>
+                        Github Link :
+                    </td>
+                </tr>
+            </table>
+        </h3>
+        <ul>
+            <ul>
+                <table style="background:rgb(255, 8, 0, 0)">
+                    <tr>
+                        <td>
+                            <a href="https://github.com/Ranjithsenthilnathan"> click here </a>
+                        </td>
+                    </tr>
+                </table>
+            </ul>   
+        </ul>   
+        <table style="background:rgb(255, 0, 157)">
+            <tr>
+                <td>
+                    <h3>Images</h3>
+                </td>
+            </tr>
+        </table>
+            
+        <img src="https://img.brainkart.com/menu/2.jpg">
+       </table> 
+    </body>
+</html>      
