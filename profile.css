@@ -1,0 +1,39 @@
+body
+{
+    background-color:white;
+}
+
+body
+{
+    border-style: double solid;
+    border-color: rgb(45, 165, 15);
+    border-style: inherit;
+}
+h1, h2, h3, h4, h5
+{
+    border-bottom: 1px solid white;
+    color:rgb(0, 0, 0);
+    padding-bottom: 2px
+}
+
+body
+{
+    width = 1px;
+    text-align:center;
+}
+
+.center
+{
+    padding-left: 450px;
+}
+
+.hold a
+{
+    padding: 65px;
+    
+}   
+
+
+
+
+
